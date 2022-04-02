@@ -3,7 +3,7 @@
 ![Aspiring Web 3.0 Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvUtqkxu7H2JDxVaJ9tvJbZpN9cTYcrZJXw&usqp=CAU)
 
 Experienced and effective Business Developer bringing forth valuable industry experience and a passion for management. Results-oriented with a proven track record of improving the market position of a company and maximizing opportunities for financial growth. Adept in analytical thinking, strategic planning, leadership, and building strong relationships with business partners.
-.
+<br>
 Currently, I also managed one of the biggest crypto channels in Malaysia where I gave signals, potential coins and education.
 
 Skills: PHYTON / JS / HTML / CSS
