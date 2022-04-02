@@ -1,5 +1,6 @@
 ### Hi there 👋, Ahmad Sofwan here!
 #### Aspiring Web 3.0 Developer
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sofwan10&countColor=%23263759)
 ![Aspiring Web 3.0 Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvUtqkxu7H2JDxVaJ9tvJbZpN9cTYcrZJXw&usqp=CAU)
 
 Experienced and effective Business Developer bringing forth valuable industry experience and a passion for management. Results-oriented with a proven track record of improving the market position of a company and maximizing opportunities for financial growth. Adept in analytical thinking, strategic planning, leadership, and building strong relationships with business partners.
