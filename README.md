@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmad Sofwan here!
 #### Aspiring Web 3.0 Developer
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sofwan10&countColor=%23263759)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=sofwan10&countColor=%23263759)](https://visitorbadge.io/status?path=sofwan10)
 <br>
 ![Aspiring Web 3.0 Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvUtqkxu7H2JDxVaJ9tvJbZpN9cTYcrZJXw&usqp=CAU)
 
