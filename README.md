@@ -1,4 +1,4 @@
-### Hi there 👋, Ahmad Sofwan 
+### Hi there 👋, Ahmad Sofwan here!
 #### Aspiring Web 3.0 Developer
 ![Aspiring Web 3.0 Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvUtqkxu7H2JDxVaJ9tvJbZpN9cTYcrZJXw&usqp=CAU)
 
