@@ -1,4 +1,5 @@
-# Hi there 👋, Sofwan here!!
+# Hi there, Sofwan here!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"  width="40" height="40"/>&nbsp;
+
 #### Aspiring Web 3.0 Developer
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=sofwan10&countColor=%23263759)](https://visitorbadge.io/status?path=sofwan10)
 <br>
