@@ -27,7 +27,7 @@ Currently, I also managed one of the biggest crypto channels in Malaysia where I
 <br>
 <br>
 
-- 🔭 I’m currently working on Web 3.0 Developer [(Tayor.io)](https://tayor.io/) 
+- 🔭 I’m currently working as Web 3.0 Developer [(Tayor.io)](https://tayor.io/) 
 - 🌱 I’m currently learning Blockchain, Java, Solidity. Ruby. 
 - 👯 I’m looking to collaborate on YouTube and others relevant platform. 
 - 🤔 I’m looking for help with documentation, consultation. 
