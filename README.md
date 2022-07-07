@@ -26,7 +26,7 @@ Experienced and effective Business Developer bringing forth valuable industry ex
 Currently, I also managed one of the biggest crypto channels in Malaysia where I gave signals, potential coins and education.
 <br>
 <br>
-- ####<strong>Website:</strong> <span><a href="https://sfn-site.netlify.app/">My Portfolios</a></span>
+- <strong>Website:</strong> <span><a href="https://sfn-site.netlify.app/">My Portfolios</a></span>
 
 <br>
 
