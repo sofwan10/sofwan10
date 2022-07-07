@@ -26,7 +26,7 @@ Experienced and effective Business Developer bringing forth valuable industry ex
 Currently, I also managed one of the biggest crypto channels in Malaysia where I gave signals, potential coins and education.
 <br>
 <br>
-
+<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://sfn-site.netlify.app/">My Portfolios</a></span></li>
 - 🔭 I’m currently working as Web 3.0 Developer [(Tayor.io)](https://tayor.io/) 
 - 🌱 I’m currently learning Blockchain, Java, Solidity. Ruby. 
 - 👯 I’m looking to collaborate on YouTube and others relevant platform. 
