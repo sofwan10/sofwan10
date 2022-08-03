@@ -22,6 +22,8 @@
 <br>
 Experienced and effective Business Developer bringing forth valuable industry experience and a passion for management. Results-oriented with a proven track record of improving the market position of a company and maximizing opportunities for financial growth. Adept in analytical thinking, strategic planning, leadership, and building strong relationships with business partners.
 <br>
+As a dedicated programmer, I am willing to challenge myself to achieve something I have never done before, and I endeavor to learn and develop my skills on a daily basis.
+<br>
 <br>
 Currently, I also managed one of the biggest crypto channels in Malaysia where I gave signals, potential coins and education.
 <br>
