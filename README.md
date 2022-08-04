@@ -41,9 +41,9 @@
   </a>
 </div>
 
-<br>
 ---
 ### :hammer_and_wrench: Professional Summary :
+
 Experienced and effective Business Developer bringing forth valuable industry experience and a passion for management. Results-oriented with a proven track record of improving the market position of a company and maximizing opportunities for financial growth. Adept in analytical thinking, strategic planning, leadership, and building strong relationships with business partners.
 <br>
 <br>
