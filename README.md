@@ -52,9 +52,8 @@ As a dedicated programmer, I am willing to challenge myself to achieve something
 <br>
 Currently, I also managed one of the biggest crypto channels in Malaysia where I gave signals, potential coins and education.
 <br>
-<br>
-- <strong>Website:</strong> <span><a href="https://sfn-site.netlify.app/">My Portfolios</a></span>
 
+<li><strong>Website:</strong> <span><a href="https://sfn-site.netlify.app/">My Portfolios</a></span></li>
 <br>
 
 - 🔭 I’m currently working as Web 3.0 Developer [(Tayor.io)](https://tayor.io/) 
