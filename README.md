@@ -21,7 +21,10 @@
 </div>
 
 <div id="header" align="center">
-<a href="(https://github.com/sofwan10)"><img src='https://github.com/sofwan10' alt='github' height='40'>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sofweng10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](sofweng10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmad-sofwan-668437148/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sofweng10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCLYhBeYm0mlXp9Ch92eyWlQ)
+[<a href="https://dev.to/sofweng10">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>]
+  </a>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](sofweng10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmad-sofwan-668437148/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sofweng10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCLYhBeYm0mlXp9Ch92eyWlQ)
 </div>
 <br>
 Experienced and effective Business Developer bringing forth valuable industry experience and a passion for management. Results-oriented with a proven track record of improving the market position of a company and maximizing opportunities for financial growth. Adept in analytical thinking, strategic planning, leadership, and building strong relationships with business partners.
