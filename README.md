@@ -97,12 +97,3 @@ Currently, I also managed one of the biggest crypto channels in Malaysia where I
 <br> 
 <img src="https://github-readme-stats.vercel.app/api?username=sofwan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 ---
-
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/sofwan10/sofwan10/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
