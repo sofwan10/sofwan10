@@ -62,7 +62,6 @@ Currently, I also managed one of the biggest crypto channels in Malaysia where I
 - 🤔 I’m looking for help with documentation, consultation. 
 - 💬 Ask me about trading or any related stuff. 
 - 📫 Reach me and Susbcribe my content!! : [Twitter --> @Sofweng10](https://twitter.com/Sofweng10) // [YouTube --> @Ahmad Sofwan](https://www.youtube.com/channel/UCLYhBeYm0mlXp9Ch92eyWlQ) 
-- 😄 Pronouns: He/His 
 - ⚡ Fun fact: I like to flipping my net worth 
 ---
 ### :hammer_and_wrench: Languages and Tools :
